@@ -1,0 +1,12 @@
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/bin/Debug/netcoreapp3.0/CountingValleys.deps.json
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/bin/Debug/netcoreapp3.0/CountingValleys.runtimeconfig.json
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/bin/Debug/netcoreapp3.0/CountingValleys.runtimeconfig.dev.json
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/bin/Debug/netcoreapp3.0/CountingValleys.dll
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/bin/Debug/netcoreapp3.0/CountingValleys.pdb
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/obj/Debug/netcoreapp3.0/CountingValleys.csprojAssemblyReference.cache
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/obj/Debug/netcoreapp3.0/CountingValleys.csproj.CoreCompileInputs.cache
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/obj/Debug/netcoreapp3.0/CountingValleys.AssemblyInfoInputs.cache
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/obj/Debug/netcoreapp3.0/CountingValleys.AssemblyInfo.cs
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/obj/Debug/netcoreapp3.0/CountingValleys.dll
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/obj/Debug/netcoreapp3.0/CountingValleys.pdb
+/Users/jtroutman/Projects/hacker-rank/CountingValleys/obj/Debug/netcoreapp3.0/CountingValleys.genruntimeconfig.cache
