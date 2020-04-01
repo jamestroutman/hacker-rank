@@ -1,0 +1,11 @@
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/bin/Debug/netcoreapp3.0/SockMerchant
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/bin/Debug/netcoreapp3.0/SockMerchant.deps.json
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/bin/Debug/netcoreapp3.0/SockMerchant.runtimeconfig.json
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/bin/Debug/netcoreapp3.0/SockMerchant.runtimeconfig.dev.json
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/bin/Debug/netcoreapp3.0/SockMerchant.dll
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/bin/Debug/netcoreapp3.0/SockMerchant.pdb
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/obj/Debug/netcoreapp3.0/SockMerchant.csprojAssemblyReference.cache
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/obj/Debug/netcoreapp3.0/SockMerchant.AssemblyInfoInputs.cache
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/obj/Debug/netcoreapp3.0/SockMerchant.AssemblyInfo.cs
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/obj/Debug/netcoreapp3.0/SockMerchant.dll
+/Users/jtroutman/Projects/hacker-rank/SockMerchant/obj/Debug/netcoreapp3.0/SockMerchant.pdb
