@@ -1,0 +1,12 @@
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/bin/Debug/netcoreapp3.1/Jumping on the Clouds.deps.json
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/bin/Debug/netcoreapp3.1/Jumping on the Clouds.runtimeconfig.json
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/bin/Debug/netcoreapp3.1/Jumping on the Clouds.runtimeconfig.dev.json
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/bin/Debug/netcoreapp3.1/Jumping on the Clouds.dll
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/bin/Debug/netcoreapp3.1/Jumping on the Clouds.pdb
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/obj/Debug/netcoreapp3.1/Jumping on the Clouds.csprojAssemblyReference.cache
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/obj/Debug/netcoreapp3.1/Jumping on the Clouds.csproj.CoreCompileInputs.cache
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/obj/Debug/netcoreapp3.1/Jumping on the Clouds.AssemblyInfoInputs.cache
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/obj/Debug/netcoreapp3.1/Jumping on the Clouds.AssemblyInfo.cs
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/obj/Debug/netcoreapp3.1/Jumping on the Clouds.dll
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/obj/Debug/netcoreapp3.1/Jumping on the Clouds.pdb
+/Users/jtroutman/Projects/hacker-rank/Jumping on the Clouds/obj/Debug/netcoreapp3.1/Jumping on the Clouds.genruntimeconfig.cache
