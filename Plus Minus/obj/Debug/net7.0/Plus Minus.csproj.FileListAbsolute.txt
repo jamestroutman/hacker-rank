@@ -1,0 +1,15 @@
+C:\Code\hacker-rank\Plus Minus\bin\Debug\net7.0\Plus Minus.exe
+C:\Code\hacker-rank\Plus Minus\bin\Debug\net7.0\Plus Minus.deps.json
+C:\Code\hacker-rank\Plus Minus\bin\Debug\net7.0\Plus Minus.runtimeconfig.json
+C:\Code\hacker-rank\Plus Minus\bin\Debug\net7.0\Plus Minus.dll
+C:\Code\hacker-rank\Plus Minus\bin\Debug\net7.0\Plus Minus.pdb
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\Plus Minus.csproj.AssemblyReference.cache
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\Plus Minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\Plus Minus.AssemblyInfoInputs.cache
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\Plus Minus.AssemblyInfo.cs
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\Plus Minus.csproj.CoreCompileInputs.cache
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\Plus Minus.dll
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\refint\Plus Minus.dll
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\Plus Minus.pdb
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\Plus Minus.genruntimeconfig.cache
+C:\Code\hacker-rank\Plus Minus\obj\Debug\net7.0\ref\Plus Minus.dll
