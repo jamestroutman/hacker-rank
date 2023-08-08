@@ -7,5 +7,8 @@
 - Jumping in the Clouds 20/20
 - Diagonal Difference 10/10
 - Plus Minus 10/10
+- Staircases 10/10
+
+## Setup
 
 dotnet new console -o "XXXX"
